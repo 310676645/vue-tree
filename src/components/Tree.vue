@@ -94,11 +94,6 @@
                 }
                 let isCheck = this.value.indexOf(selfId) != -1 ? true : false;
                 let checkList = this.eachChildModel(model[index]);
-
-                /**
-                 * 选中子菜单或取消子菜单操作
-                 */
-
                 for(let i = 0, len = checkList.length; i < len; i++){
                     let checkListIndex = currentValue.indexOf(checkList[i]);
                     if(isCheck && checkListIndex == -1){
