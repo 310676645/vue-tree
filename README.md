@@ -2,7 +2,7 @@
 
 > vue树状无限分类组件
 
-##截图预览
+## 截图预览
 
 ![截图](http://ohhqdafpw.bkt.clouddn.com/vue-tree.gif)
 
